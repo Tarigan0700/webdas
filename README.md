@@ -1,5 +1,5 @@
 # dasar-web
-Ini adalah Tugas Pertama
+Ini adalah Tugas Praktikum 3 Pemrograman berbasis Web
 Matkul : Pemrograman Berbasis Web
 
 NAMA      : CELFINDO TARIGAN
